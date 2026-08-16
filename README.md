@@ -42,7 +42,7 @@ This is an independent student research project. It did not undergo formal insti
 
 If you reference this work:
 
-> Anikeev, A. (2026). *Social isolation and ambition: A two-wave correlational study of school ostracism and goal abandonment in high-achieving adolescents.* Independent research preprint. Available at: [GitHub URL] / OSF: [DOI when available].
+> Anikeev, A. (2026). *Social isolation and ambition: A two-wave correlational study of school ostracism and goal abandonment in high-achieving adolescents.* Independent research preprint. 
 
 ## Contact
 
